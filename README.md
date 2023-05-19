@@ -14,8 +14,9 @@ Hereby, we as a group are taking the following quantifiable measurements along a
 •	Total number of incidents of the employees.
 •	Total number of incidents at a particular location.
 •	Number of Claims posted by the employees on the organization portal.
+
 In the project deliverable 1, we used operational dataset as follows:
-•	Employee: This entity contains the demographical data of employees. It has the following attributes like EmpSerialNo, ClaimNo, EmpID, FirstName, LastName, Gender, EmploymentStatus, HireDate, Position, CurrentUnion, DepartmentID, InjuryID, IncidentID, Department.
+•	Employee: This entity contains the demographical data of employees. It has the following attributes like EmpSerialNo, ClaimNo, EmpID, FirstName, LastName, Gender,     EmploymentStatus, HireDate, Position, CurrentUnion, DepartmentID, InjuryID, IncidentID, Department.
 •	Claim: The claim entity claims details made by the employee and their status. The attributes are ClaimNo, ClaimStatus.
 •	Injury: This entity describes the injury the employee faced. The attributes are InjuryID,
 •	InjuryDescription.
